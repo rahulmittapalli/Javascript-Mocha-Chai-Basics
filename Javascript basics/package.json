@@ -1,0 +1,16 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test||true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "object-sizeof": "^1.3.0",
+    "request": "^2.88.0"
+  }
+}
