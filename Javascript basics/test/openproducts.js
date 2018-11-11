@@ -12,7 +12,7 @@ var options = {
     'API-KEY': 'f960530a-ba6f-463c-8f00-46e2071490f7',
   }
 }
-//console.log(options);
+console.log(options);
 describe('Sample products', function() {
   it('Hello world', function(done) {
     this.timeout(25000);
